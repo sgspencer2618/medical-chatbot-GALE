@@ -6,7 +6,6 @@ pinecone[grpc]
 langchain-pinecone
 langchain-community
 langchain-openai
-langchain-groq
 langchain-experimental
 tiktoken
 -e .
