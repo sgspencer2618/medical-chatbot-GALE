@@ -3,6 +3,8 @@ A Retrieval-Augmented Generation (RAG) chatbot built with LangChain, OpenAI, Pin
 
 ⚠️ Disclaimer: This chatbot is intended for informational purposes only. It does not provide medical advice, diagnosis, or treatment.
 
+![image](https://github.com/user-attachments/assets/701bbc62-4ad0-40a1-b6fd-333440152844)
+
 ## Features
 - RAG (Retrieval-Augmented Generation) Pipeline
 - Combines OpenAI LLM with retrieval from The GALE encyclopedia of medicine for accurate responses
